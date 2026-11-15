@@ -45,8 +45,8 @@ window.PORTFOLIO = {
     semester: 4,                               // Current semester (1–8) → XP bar
     totalSemesters: 8,
     cgpa: "8.72",
-    batch: "2024 – 2028",
-    location: "Pune, India",
+    batch: "2026 – 2030",
+    location: "Haridwar,uttrakhand, India",
     status: "Open to internships & hackathon teams",
     statusOnline: true,                        // Green dot (true) / amber dot (false)
     resume: "assets/resume.pdf",               // Put your PDF inside /assets
