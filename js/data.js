@@ -29,7 +29,7 @@ window.PORTFOLIO = {
 
   /* ---------- 2. PLAYER (YOU) ---------- */
   player: {
-    name: "VALIANT GRIFFIN",
+    name: "VINAY CHAURASIYA",
     handle: "aarav.dev",                       // Short brand / username shown in the top bar
     avatar: "assets/images/avatar-sample.jpeg",
     classTitles: [                             // Typed one after another in the hero
