@@ -38,11 +38,11 @@ window.PORTFOLIO = {
       "DSA Grinder",
       "Hackathon Rookie"
     ],
-    intro: "2nd-year B.Tech CSE student who turns caffeine into code. I build small things that solve real campus problems — and I'm levelling up one semester at a time.",
+    intro: "1-year B.Tech CSE student who turns caffeine into code. I build small things that solve real campus problems — and I'm levelling up one semester at a time.",
     college: "ABC Institute of Technology",
     branch: "B.Tech — Computer Science & Engg.",
-    year: 2,                                   // Current year of study (1–4) → shown as LV
-    semester: 4,                               // Current semester (1–8) → XP bar
+    year: 1,                                   // Current year of study (1–4) → shown as LV
+    semester: 2,                               // Current semester (1–8) → XP bar
     totalSemesters: 8,
     cgpa: "8.72",
     batch: "2026 – 2030",
