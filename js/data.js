@@ -31,7 +31,7 @@ window.PORTFOLIO = {
   player: {
     name: "VALIANT GRIFFIN",
     handle: "aarav.dev",                       // Short brand / username shown in the top bar
-    avatar: "assets/images/avatar-sample.svg",
+    avatar: "assets/images/",
     classTitles: [                             // Typed one after another in the hero
       "Code Wizard 🧙",
       "Full-Stack Apprentice",
